@@ -1,4 +1,4 @@
-# Chat with PDF
+# Chat with your PDF
 
 **Live App:** [Chat with Your PDF](https://chat-with-your-pdf-mostafa.streamlit.app)
 
